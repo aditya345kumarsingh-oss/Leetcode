@@ -18,6 +18,7 @@ My LeetCode solutions.
 | [0001-two-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
