@@ -8,6 +8,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -95,4 +96,8 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
