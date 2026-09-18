@@ -110,6 +110,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
