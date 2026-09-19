@@ -48,6 +48,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -151,4 +152,8 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
