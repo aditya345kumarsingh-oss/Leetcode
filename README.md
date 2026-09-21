@@ -30,6 +30,7 @@ My LeetCode solutions.
 | [0001-two-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -43,6 +44,7 @@ My LeetCode solutions.
 | [0142-linked-list-cycle-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Math
@@ -151,6 +153,7 @@ My LeetCode solutions.
 | [0020-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +166,8 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
