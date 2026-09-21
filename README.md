@@ -31,6 +31,7 @@ My LeetCode solutions.
 | [0048-rotate-image](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0622-design-circular-queue](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -129,6 +130,7 @@ My LeetCode solutions.
 | [0203-remove-linked-list-elements](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -166,8 +168,13 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0155-min-stack/) | Medium |
+| [0622-design-circular-queue](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
