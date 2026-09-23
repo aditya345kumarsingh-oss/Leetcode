@@ -30,6 +30,7 @@ My LeetCode solutions.
 | [0001-two-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0048-rotate-image](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -64,6 +65,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -80,12 +82,14 @@ My LeetCode solutions.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -240,4 +244,8 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
