@@ -194,6 +194,7 @@ My LeetCode solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -215,6 +216,7 @@ My LeetCode solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -227,6 +229,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0450-delete-node-in-a-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Segment Tree
