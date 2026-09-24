@@ -3,7 +3,7 @@ import java.util.Set;
 
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Set<Integer> set = new HashSet<>();
+       HashSet<Integer> set = new HashSet<>();
 
         for (int num : nums) {
             // set.add() returns false if the element already exists
