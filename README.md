@@ -36,6 +36,7 @@ My LeetCode solutions.
 | [0217-contains-duplicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0622-design-circular-queue](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -89,6 +90,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Sorting
