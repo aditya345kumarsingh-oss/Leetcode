@@ -46,6 +46,7 @@ My LeetCode solutions.
 | [1046-last-stone-weight](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ My LeetCode solutions.
 | [0200-number-of-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
