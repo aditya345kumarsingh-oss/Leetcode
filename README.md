@@ -25,6 +25,7 @@ My LeetCode solutions.
 | [0242-valid-anagram](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Array
@@ -183,6 +184,7 @@ My LeetCode solutions.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
@@ -196,6 +198,7 @@ My LeetCode solutions.
 | [0232-implement-queue-using-stacks](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
