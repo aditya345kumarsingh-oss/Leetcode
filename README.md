@@ -14,6 +14,7 @@ My LeetCode solutions.
 | [0234-palindrome-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0567-permutation-in-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
@@ -25,6 +26,7 @@ My LeetCode solutions.
 | [0151-reverse-words-in-a-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -65,6 +67,7 @@ My LeetCode solutions.
 | [0242-valid-anagram](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Math
@@ -156,6 +159,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
