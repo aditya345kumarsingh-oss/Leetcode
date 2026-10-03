@@ -23,6 +23,7 @@ My LeetCode solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -98,6 +99,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -198,6 +200,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -212,6 +215,7 @@ My LeetCode solutions.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
