@@ -27,6 +27,7 @@ My LeetCode solutions.
 | [0032-longest-valid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -299,6 +300,7 @@ My LeetCode solutions.
 | [0200-number-of-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -341,4 +343,5 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
