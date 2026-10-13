@@ -68,6 +68,7 @@ My LeetCode solutions.
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ My LeetCode solutions.
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +173,7 @@ My LeetCode solutions.
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
