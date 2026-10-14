@@ -93,6 +93,7 @@ My LeetCode solutions.
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ My LeetCode solutions.
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
