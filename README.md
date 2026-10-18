@@ -62,6 +62,7 @@ My LeetCode solutions.
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1929-concatenation-of-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -95,6 +96,7 @@ My LeetCode solutions.
 | [0002-add-two-numbers](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -114,6 +116,7 @@ My LeetCode solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +125,7 @@ My LeetCode solutions.
 | [0053-maximum-subarray](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
@@ -183,6 +187,7 @@ My LeetCode solutions.
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -291,6 +296,7 @@ My LeetCode solutions.
 | [0543-diameter-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +323,7 @@ My LeetCode solutions.
 | [0543-diameter-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -334,6 +341,7 @@ My LeetCode solutions.
 | [0450-delete-node-in-a-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -352,6 +360,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,4 +393,12 @@ My LeetCode solutions.
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
