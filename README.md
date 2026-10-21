@@ -73,6 +73,7 @@ My LeetCode solutions.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ My LeetCode solutions.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +154,7 @@ My LeetCode solutions.
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +390,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
