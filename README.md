@@ -62,6 +62,7 @@ My LeetCode solutions.
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1929-concatenation-of-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -115,6 +116,7 @@ My LeetCode solutions.
 | [0200-number-of-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -320,6 +322,7 @@ My LeetCode solutions.
 | [0210-course-schedule-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +347,7 @@ My LeetCode solutions.
 | [0210-course-schedule-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +374,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
