@@ -76,6 +76,7 @@ My LeetCode solutions.
 | [3525-find-x-value-of-array-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -120,6 +121,7 @@ My LeetCode solutions.
 | [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ My LeetCode solutions.
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
