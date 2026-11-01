@@ -55,6 +55,7 @@ My LeetCode solutions.
 | [0217-contains-duplicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0622-design-circular-queue](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
@@ -103,6 +104,7 @@ My LeetCode solutions.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
