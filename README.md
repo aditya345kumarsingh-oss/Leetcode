@@ -17,6 +17,7 @@ My LeetCode solutions.
 | [0443-string-compression](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ My LeetCode solutions.
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1929-concatenation-of-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -156,6 +158,7 @@ My LeetCode solutions.
 | [0349-intersection-of-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -168,6 +171,7 @@ My LeetCode solutions.
 | [0349-intersection-of-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
