@@ -66,6 +66,7 @@ My LeetCode solutions.
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -130,6 +131,7 @@ My LeetCode solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -205,6 +207,7 @@ My LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +348,7 @@ My LeetCode solutions.
 | [0543-diameter-of-binary-tree](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -371,6 +375,7 @@ My LeetCode solutions.
 | [0301-remove-invalid-parentheses](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0733-flood-fill](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -399,6 +404,7 @@ My LeetCode solutions.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya345kumarsingh-oss/Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Graph Theory
